@@ -34,6 +34,6 @@ Stačí otevřít `index.html` v prohlížeči, nebo spustit lokální server:
 python3 -m http.server 8000
 ```
 
-a otevřít <http://localhost:8000>.
+a otevřít [https://sulii01.github.io/HoralNet/](https://sulii01.github.io/HoralNet/)
 
 Web lze nasadit na libovolný statický hosting (GitHub Pages, Netlify, klasický webhosting).
